@@ -1,4 +1,6 @@
-Link:- https://kasunweerasinghe.github.io/Rock-Paper-Scissors-Game/
+# Rock, Paper and Scissor Game
+
+🔗 GitHub Page:- https://kasunweerasinghe.github.io/Rock-Paper-Scissors-Game/
 
 # Interface
 
