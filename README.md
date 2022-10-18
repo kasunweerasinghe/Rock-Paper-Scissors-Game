@@ -1,5 +1,8 @@
-#UI
 Link:- https://kasunweerasinghe.github.io/Rock-Paper-Scissors-Game/
+
+##UI
+
+---
 
 Before Game Start
 ![Before Start!](assets/project_ss/1.png)
@@ -7,3 +10,13 @@ Before Game Start
 
 After Game Start
 ![After Start!](assets/project_ss/2.png)
+
+#languages
+
+----
+
+*HTML.
+
+*CSS.
+
+*JavaScript
