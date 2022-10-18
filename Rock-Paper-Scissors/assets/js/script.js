@@ -51,7 +51,7 @@ function selectChoice() {
         }
     }
 
-    //set score to h1's
+    //set score to h1s
     document.getElementById('your-score').innerText = yourScore;
     document.getElementById('opponent-score').innerText = opponentScore;
 }
