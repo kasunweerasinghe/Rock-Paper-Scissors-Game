@@ -20,4 +20,8 @@ window.onload = function () {
 function selectChoice(){
     you = this.id;
     document.getElementById('your-choice').src = you + '.png';
+
+    //random for opponent
+    opponent = choices[Math.floor(Math.random() * 3)];
+
 }
