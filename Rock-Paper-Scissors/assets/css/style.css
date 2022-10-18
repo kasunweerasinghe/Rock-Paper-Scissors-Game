@@ -13,21 +13,21 @@ body{
 #opponent-choice {
     width: 240px;
     height: 240px;
-     background-color: cyan;
+     /*background-color: cyan;*/
     margin-top: 10px;
 }
 
 #your-choice {
     width: 240px;
     height: 240px;
-     background-color: yellow;
+     /*background-color: yellow;*/
     margin-top: 10px;
 }
 
 #choices {
     width: 240px;
     height: 80px;
-     background-color: green;
+     /*background-color: green;*/
     margin: 0 auto;
     margin-top: 10px;
 }
