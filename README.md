@@ -1,6 +1,6 @@
 Link:- https://kasunweerasinghe.github.io/Rock-Paper-Scissors-Game/
 
-##UI
+# Interface
 
 ---
 
